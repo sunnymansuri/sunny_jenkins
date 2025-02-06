@@ -1,7 +1,6 @@
 # This Pipeline will manage CloudRun deployment via Terraform
 
 name: 'CICD EP1'
-
 on:
   push:
     branches:
